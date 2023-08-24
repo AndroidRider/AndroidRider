@@ -28,11 +28,11 @@ I'm a software enthusiast who fell in love with Android's potential to bring ide
 </p>
 
 <!--- Most used language --->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdarfealam36&show_icons=true&locale=en&layout=compact" alt="mdarfealam36" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndroidRider&show_icons=true&locale=en&layout=compact" alt="AndroidRider" /></p>
 <!--- Github Status --->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdarfealam36&show_icons=true&locale=en" alt="mdarfealam36" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AndroidRider&show_icons=true&locale=en" alt="AndroidRider" /></p>
 <!--- Counter --->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdarfealam36&" alt="mdarfealam36" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AndroidRider&" alt="AndroidRider" /></p>
 
 
 ## Highlights
