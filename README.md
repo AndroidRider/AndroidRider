@@ -18,12 +18,14 @@ I'm a software enthusiast who fell in love with Android's potential to bring ide
 - <p> <b>Learning and Growth:</b> I believe in continuous learning. You might come across experimental projects where I'm exploring new libraries, concepts, or design ideas. Your feedback is always welcome!</p>
 
 ## Languages and Tools:
+<p>
 <img src="https://user-images.githubusercontent.com/140700822/263035803-4462dcc4-99a4-4da4-9d73-82e3192f0f6d.png" width="50"></a>
 <img src="https://user-images.githubusercontent.com/140700822/263032128-c7302b5a-8384-44f8-b44d-297529ae2bee.png" width="50"></a>
 <img src="https://user-images.githubusercontent.com/140700822/263033507-e0623352-f8be-42b8-a2e0-102d06e17bc2.png" width="50">
 <img src="https://user-images.githubusercontent.com/140700822/263033476-cd2c3690-964f-433b-88ca-1b5f335959a0.png" width="50">
 <img src="https://user-images.githubusercontent.com/140700822/263035040-2a6317ce-dda0-496b-89aa-64f219577fcd.png" width="50">
 <img src="https://user-images.githubusercontent.com/140700822/263037937-9b6e092b-f783-4687-ac03-3316527e3917.png" width="50">
+</p>
 
 <!--- Most used language --->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdarfealam36&show_icons=true&locale=en&layout=compact" alt="mdarfealam36" /></p>
@@ -48,6 +50,7 @@ If you find any of my projects helpful, consider giving them a star ⭐ to show 
 Happy coding! 🚀
 
 ## Hit me On
+<p>
 <a href="https://www.instagram.com/mdarfealam36/"><img src="https://user-images.githubusercontent.com/140700822/262981944-eec5426f-d6df-43ee-95fa-8afe22152b25.png" width="50"></a>
 <a href="https://www.facebook.com/mdarfealam36/"><img src="https://user-images.githubusercontent.com/140700822/262981980-43c667ae-76ce-47e0-b055-5c6ff16970fc.png" width="50"></a>
 <a href="https://twitter.com/mdarfealam36"><img src="https://user-images.githubusercontent.com/140700822/262982005-2fc53417-33a6-479f-ae8c-b63691e1285e.png" width="50"></a>
