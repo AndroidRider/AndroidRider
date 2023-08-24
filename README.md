@@ -18,11 +18,11 @@ I'm a software enthusiast who fell in love with Android's potential to bring ide
 - <p> <b>Learning and Growth:</b> I believe in continuous learning. You might come across experimental projects where I'm exploring new libraries, concepts, or design ideas. Your feedback is always welcome!</p>
 
 ## Languages and Tools:
-<img src="https://user-images.githubusercontent.com/140700822/263032128-c7302b5a-8384-44f8-b44d-297529ae2bee.png" width="50">&nbsp &nbsp
-<img src="https://user-images.githubusercontent.com/140700822/263033507-e0623352-f8be-42b8-a2e0-102d06e17bc2.png" width="50">&nbsp &nbsp
-<img src="https://user-images.githubusercontent.com/140700822/263033476-cd2c3690-964f-433b-88ca-1b5f335959a0.png" width="50">&nbsp &nbsp
-<img src="https://user-images.githubusercontent.com/140700822/263035040-2a6317ce-dda0-496b-89aa-64f219577fcd.png" width="50">&nbsp &nbsp
-<img src="https://user-images.githubusercontent.com/140700822/263035803-4462dcc4-99a4-4da4-9d73-82e3192f0f6d.png" width="50">&nbsp &nbsp
+<img src="https://user-images.githubusercontent.com/140700822/263032128-c7302b5a-8384-44f8-b44d-297529ae2bee.png" width="50" style="padding-bottom: 20px; display: block; border: none;">
+<img src="https://user-images.githubusercontent.com/140700822/263033507-e0623352-f8be-42b8-a2e0-102d06e17bc2.png" width="50" style="padding-bottom: 20px; display: block; border: none;">
+<img src="https://user-images.githubusercontent.com/140700822/263033476-cd2c3690-964f-433b-88ca-1b5f335959a0.png" width="50">
+<img src="https://user-images.githubusercontent.com/140700822/263035040-2a6317ce-dda0-496b-89aa-64f219577fcd.png" width="50">
+<img src="https://user-images.githubusercontent.com/140700822/263035803-4462dcc4-99a4-4da4-9d73-82e3192f0f6d.png" width="50">
 <img src="https://user-images.githubusercontent.com/140700822/263037937-9b6e092b-f783-4687-ac03-3316527e3917.png" width="50">
 
 <!--- Most used language --->
